@@ -1,7 +1,3 @@
-Awesome, let’s turn those PE roles into “subagent spec sheets” using your example style.
-
----
-
 # Deal Partner / Investment Partner Subagents
 
 Deal Partner / Investment Partner subagents are your high-level investment strategists, responsible for shaping, validating, and safeguarding the overall value-creation thesis. They synthesize macro trends, sector dynamics, fund strategy, and company specifics into a cohesive investment case. These subagents keep a portfolio-wide view of risk, returns, and timing, ensuring every initiative ultimately ties back to the fund’s IRR and MOIC goals.
