@@ -304,8 +304,6 @@ Use these subagents when you need to:
 
 ---
 
-If you’d like, next step I can package these into a **single “PE Value-Creation Agent Directory”** (Notion page, slide outline, or JSON/YAML spec) you can plug into an AI multi-agent framework.
-
 
 ## Usage in Claude
 
